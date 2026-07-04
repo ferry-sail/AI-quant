@@ -21,3 +21,6 @@ Thumbs.db
 
 # Temp scripts
 *.temp.py
+
+# SSH keys (local only)
+.ssh/
